@@ -1,1 +1,4 @@
-假如生活欺骗了你，
+public 
+private 
+default
+prodected
